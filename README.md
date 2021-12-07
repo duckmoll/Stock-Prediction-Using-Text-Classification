@@ -10,3 +10,16 @@ Since this is a binary classification problem, precision, recall, accuracy and F
 
 
 The biggest unknowns are the data pre-processing, implementation of deep learning models, and how to train numerical data in text. As we have not used the dataset before, it may take some time for us to extract and clean the data. And since we only have limited experience with deep learning frameworks, we will spend some time deciding which is the most suitable. We are currently considering using keras. And because the numbers in financial files can contain meaningful information to the market, we need to research for a method to handle numerical values in text.
+
+
+Data:
+SP500 Stocks training 2015-2019 testing 2021 
+Total File Size > 36GB
+
+Model:
+Bag-Of-Word Multinomial Naive Bayes
+TF-IDF Multinomial Naive Bayes
+Financial Embedding
+RNN
+RNN + Financial Embedding
+BERT
