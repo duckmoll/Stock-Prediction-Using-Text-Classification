@@ -13,13 +13,23 @@ The biggest unknowns are the data pre-processing, implementation of deep learnin
 
 
 Data:
+
 SP500 Stocks training 2015-2019 testing 2021 
+
 Total File Size > 36GB
 
 Model:
+
 Bag-Of-Word Multinomial Naive Bayes
+
 TF-IDF Multinomial Naive Bayes
+
 Financial Embedding
+
 RNN
+
 RNN + Financial Embedding
+
 BERT
+
+
