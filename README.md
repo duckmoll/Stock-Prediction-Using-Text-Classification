@@ -1,4 +1,4 @@
-# Stock-Prediction-Using-Text-Classification
+# Stock-Prediction-Using-SEC-NLP
 
 # Project Proposal
 
